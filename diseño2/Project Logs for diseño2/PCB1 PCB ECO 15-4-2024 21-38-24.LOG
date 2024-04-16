@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=BT2-1
+Removed Pin From Net: NetName=GND Pin=BT2-3
+Added Component: Designator=J2(VALCON_XH250-05R-010)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XH250-05R-010/Valcon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Valcon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XH250-05R-010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XH250-05R-010/Valcon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-01
+Add Pin To Net: Unknown Pin: Pin U70-1
+Add Pin To Net: Unknown Pin: Pin U70-2
+Add Pin To Net: Unknown Pin: Pin U70-3
+Add Pin To Net: Unknown Pin: Pin U70-4
+Added Pin To Net: NetName=NetF6_1 Pin=F6-1
+Added Pin To Net: NetName=NetF6_1 Pin=J2-04
+Added Net: Name=NetF6_1
+Added Pin To Net: NetName=NetJ2_02 Pin=J2-02
+Added Pin To Net: NetName=NetJ2_02 Pin=J2-03
+Added Net: Name=NetJ2_02
+Added Class: Name=Sheet_1_2024-04-15
