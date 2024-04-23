@@ -1,0 +1,58 @@
+Removed Member From Class: ClassName=Sheet_1_2024-04-15 Member=U70
+Add Component: Footprint Not Found VALCON_XH250-05R-010
+Add Component: Footprint Not Found ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin J3-01
+Add Pin To Net: Unknown Pin: Pin J3-02
+Add Pin To Net: Unknown Pin: Pin R39-2
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin U75-1
+Add Pin To Net: Unknown Pin: Pin U75-9
+Change Net Name : Old Net Name=NetD18_2 New Net Name=+5
+Added Net: Name=NetC5_2
+Added Net: Name=NetC6_2
+Added Net: Name=NetC8_2
+Added Net: Name=NetD1_1
+Added Net: Name=NetD1_2
+Added Net: Name=NetD3_1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetJ3_03 Pin=U72-31
+Added Net: Name=NetJ3_03
+Added Pin To Net: NetName=NetJ3_04 Pin=U72-30
+Added Net: Name=NetJ3_04
+Added Net: Name=NetL1_1
+Added Net: Name=NetR40_2
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=VOUT_CHGR Pin=F6-1
+Added Pin To Net: NetName=VOUT_CHGR Pin=J2-04
+Added Net: Name=VOUT_CHGR
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Add Class Member: Failed to add class member : Component C5 Capacitor
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C8 Capacitor
+Add Class Member: Failed to add class member : Component D1 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D2 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D3 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D4 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D5 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component J3 XH250-05R-010
+Add Class Member: Failed to add class member : Component L1 Inductor
+Add Class Member: Failed to add class member : Component R39 Resistor
+Add Class Member: Failed to add class member : Component R40 Resistor
+Add Class Member: Failed to add class member : Component R41 Resistor
+Add Class Member: Failed to add class member : Component R42 Resistor
+Add Class Member: Failed to add class member : Component S1 Push Button Normally Opened
+Add Class Member: Failed to add class member : Component U75 IP5306
