@@ -1,0 +1,19 @@
+Add Component: Footprint Not Found SOP8-P - duplicate
+Add Pin To Net: Unknown Pin: Pin U80-1
+Add Pin To Net: Unknown Pin: Pin U80-2
+Add Pin To Net: Unknown Pin: Pin U80-3
+Add Pin To Net: Unknown Pin: Pin U80-4
+Add Pin To Net: Unknown Pin: Pin U80-5
+Add Pin To Net: Unknown Pin: Pin U80-6
+Add Pin To Net: Unknown Pin: Pin U80-7
+Add Pin To Net: Unknown Pin: Pin U80-8
+Add Pin To Net: Unknown Pin: Pin U80-EXP
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U71-10
+Added Pin To Net: NetName=NetC9_1 Pin=U74-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U71-9
+Added Pin To Net: NetName=NetC10_2 Pin=U74-1
+Added Net: Name=NetC10_2
+Add Class Member: Failed to add class member : Component U80 IP5306

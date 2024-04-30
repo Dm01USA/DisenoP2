@@ -1,0 +1,20 @@
+Added Component: Designator=U80(SOP8-P)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/IP5306/NXP+Semiconductors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IP5306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "UFBGA-8 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IP5306/NXP+Semiconductors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=U80-1
+Added Pin To Net: NetName=NetD1_2 Pin=U80-2
+Added Pin To Net: NetName=NetD3_2 Pin=U80-3
+Added Pin To Net: NetName=NetD1_1 Pin=U80-4
+Added Pin To Net: NetName=NetR40_1 Pin=U80-5
+Added Pin To Net: NetName=NetC6_1 Pin=U80-6
+Added Pin To Net: NetName=NetL1_1 Pin=U80-7
+Added Pin To Net: NetName=VOUT_CHGR Pin=U80-8
+Added Pin To Net: NetName=GND Pin=U80-EXP
+Added Member To Class: ClassName=Sheet_1_2024-04-15 Member=Component U80 IP5306
+Added Room: Name=Sheet_1_2024-04-15

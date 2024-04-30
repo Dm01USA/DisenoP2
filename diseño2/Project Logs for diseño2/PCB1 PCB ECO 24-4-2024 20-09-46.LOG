@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Sheet_1_2024-04-15 Member=J?
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Add Component: Footprint Not Found SOP8-P - duplicate
+Add Pin To Net: Unknown Pin: Pin U80-1
+Add Pin To Net: Unknown Pin: Pin U80-2
+Add Pin To Net: Unknown Pin: Pin U80-3
+Add Pin To Net: Unknown Pin: Pin U80-4
+Add Pin To Net: Unknown Pin: Pin U80-5
+Add Pin To Net: Unknown Pin: Pin U80-6
+Add Pin To Net: Unknown Pin: Pin U80-7
+Add Pin To Net: Unknown Pin: Pin U80-8
+Add Pin To Net: Unknown Pin: Pin U80-EXP
+Add Class Member: Failed to add class member : Component U80 IP5306
+Added Room: Name=Sheet_1_2024-04-15

@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J8-1
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Member From Class: ClassName=Sheet_1_2024-04-15 Member=J7
+Change Component Footprint: Designator=J8 Old Footprint=REAN_RJ3VM New Footprint=NEUTRIK_NMJ4HFD2
+Change Component Comment : Designator=J8 Old Comment=320B/PJ-001 3.5Jacks New Comment=NMJ4HFD2
+Change component parameters: Designator = "J8" ("J8"); Footprint = "REAN_RJ3VM"; UniqueID = "\YWVENOHP" ("\YWVENOHP")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NMJ4HFD2/Neutrik/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Neutrik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "NMJ4HFD2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NMJ4HFD2/Neutrik/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(NEUTRIK_NMJ4HFD2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NMJ4HFD2/Neutrik/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Neutrik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NMJ4HFD2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NMJ4HFD2/Neutrik/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(NEUTRIK_NMJ4HFD2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NMJ4HFD2/Neutrik/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Neutrik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NMJ4HFD2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NMJ4HFD2/Neutrik/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(NEUTRIK_NMJ4HFD2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NMJ4HFD2/Neutrik/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Neutrik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NMJ4HFD2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NMJ4HFD2/Neutrik/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(NEUTRIK_NMJ4HFD2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NMJ4HFD2/Neutrik/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Neutrik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NMJ4HFD2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NMJ4HFD2/Neutrik/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP8-P - duplicate
+Added Pin To Net: NetName=GND Pin=J8-TN
+Added Pin To Net: NetName=GND Pin=J8-T
+Added Pin To Net: NetName=GND Pin=J9-TN
+Added Pin To Net: NetName=GND Pin=J9-T
+Added Pin To Net: NetName=3.3v Pin=U71-13
+Add Pin To Net: Unknown Pin: Pin U80-1
+Add Pin To Net: Unknown Pin: Pin U80-2
+Add Pin To Net: Unknown Pin: Pin U80-3
+Add Pin To Net: Unknown Pin: Pin U80-4
+Add Pin To Net: Unknown Pin: Pin U80-5
+Add Pin To Net: Unknown Pin: Pin U80-6
+Add Pin To Net: Unknown Pin: Pin U80-7
+Add Pin To Net: Unknown Pin: Pin U80-8
+Add Pin To Net: Unknown Pin: Pin U80-EXP
+Added Pin To Net: NetName=NetJ8_S Pin=J8-S
+Added Pin To Net: NetName=NetJ8_S Pin=J8-SN
+Added Pin To Net: NetName=NetJ8_S Pin=U71-6
+Added Net: Name=NetJ8_S
+Added Pin To Net: NetName=NetJ9_S Pin=J9-S
+Added Pin To Net: NetName=NetJ9_S Pin=J9-SN
+Added Pin To Net: NetName=NetJ9_S Pin=RP2-2
+Added Net: Name=NetJ9_S
+Added Pin To Net: NetName=NetJ?_SN Pin=J?-SN
+Added Pin To Net: NetName=NetJ?_SN Pin=J?-SN
+Added Net: Name=NetJ?_SN
+Added Pin To Net: NetName=NetJ?_S Pin=J?-S
+Added Pin To Net: NetName=NetJ?_S Pin=J?-S
+Added Net: Name=NetJ?_S
+Added Pin To Net: NetName=NetJ?_TN Pin=J?-TN
+Added Pin To Net: NetName=NetJ?_TN Pin=J?-TN
+Added Net: Name=NetJ?_TN
+Added Pin To Net: NetName=NetJ?_T Pin=J?-T
+Added Pin To Net: NetName=NetJ?_T Pin=J?-T
+Added Net: Name=NetJ?_T
+Added Member To Class: ClassName=Sheet_1_2024-04-15 Member=Component J9 NMJ4HFD2
+Added Member To Class: ClassName=Sheet_1_2024-04-15 Member=Component J? NMJ4HFD2
+Added Member To Class: ClassName=Sheet_1_2024-04-15 Member=Component J? NMJ4HFD2
+Added Member To Class: ClassName=Sheet_1_2024-04-15 Member=Component J? NMJ4HFD2
+Add Class Member: Failed to add class member : Component U80 IP5306
+Added Room: Name=Sheet_1_2024-04-15
